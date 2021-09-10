@@ -10,6 +10,7 @@ Laporan Menjalankan Website Dengan Docker
 - Pertama download docker melalui link <https://www.docker.com/get-started>
 - Setelah itu instal aplikasi yang baru diunduh tadi.
 - Setelah selesai, lakukan cek apakah docker sudah terinstal atau belum dengan cara buka CMD dan ketikkan “**docker -v**”.
+
 ![](Images/gambar01-dockerver.png)
 - Jika ditampilkan seperti gambar diatas, berarti docker sudah terinstal
 
